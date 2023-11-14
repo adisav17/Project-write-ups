@@ -1,2 +1,2 @@
-# Project-write-ups-and-code-
+# Project-write-ups
 I document my project write ups, along with ongoing project write ups, with links to code bases.
